@@ -1,6 +1,6 @@
 # DuckDuckGo 搜索爬取器
 
-[![Promo](https://media.www.bright.cn/2025/08/SERP-API-50-off-GitHub-banner_1389_166.png)](https://www.bright.cn/products/serp-api/duckduckgo-search)
+[![Promo](https://media.brightdata.com/2025/08/SERP-API-50-off-GitHub-banner_1389_166.png)](https://www.bright.cn/products/serp-api/duckduckgo-search)
 
 本仓库提供两种从 DuckDuckGo 搜索结果页（SERPs）提取数据的方案：
 
